@@ -113,6 +113,3 @@ The MAPPO training, evaluation, and incentive-analysis framework is maintained s
 
 https://github.com/sanjayadpf/MOMARL_RGPL_MAPPO
 
-## Source Record
-
-`SOURCE_MANIFEST.json` records the supplied filenames and SHA-256 checksums. The Python source files are preserved as supplied. Retain original author comments and acknowledge collaborators and upstream libraries when reusing the code.
